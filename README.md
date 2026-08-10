@@ -1,12 +1,12 @@
 # ResearchMind AI Assistant
 
 An intelligent research assistant powered by Google Gemini, Hugging Face (for NER and Zero-Shot Classification), and Gradio for the user interface.
+
+![Research_Mind_AI](image.png)
 ```
   🌎🫰Here is the Demo video 
 
 ```
-
-![Research_Mind_AI](image.png)
 
 [Click Here To Watch](https://drive.google.com/file/d/1qh39v1zZ_JShLUVy940k_1BN_nSIfMBD/view?usp=drive_link)
 
