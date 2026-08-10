@@ -1,0 +1,9 @@
+google-generativeai
+gradio
+transformers
+torch
+pypdf
+python-docx
+
+
+
