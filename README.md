@@ -2,7 +2,7 @@
 
 An intelligent research assistant powered by Google Gemini, Hugging Face (for NER and Zero-Shot Classification), and Gradio for the user interface.
 ```
-  # Here is the Demo video 
+  🌎🫰Here is the Demo video 
 
 ```
 
