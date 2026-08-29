@@ -61,3 +61,12 @@ This will launch the Gradio interface in your browser.
 ---
 
 ### `requirements.txt`
+```
+google-generativeai
+gradio
+transformers
+torch
+pypdf
+python-docx
+
+```
